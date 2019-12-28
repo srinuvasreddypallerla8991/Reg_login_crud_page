@@ -1,0 +1,7 @@
+this is register and login and crud operation programs
+
+database name=hello
+table name for register,login=world
+after successfull login table name for crud operation=crud
+css file for register and login =style.css
+css file for crud operation page=crud.css
